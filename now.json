@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "main",
+  "builds": [{ "src": "main.py", "use": "@now/python" }]
+}
